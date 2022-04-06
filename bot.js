@@ -1,7 +1,7 @@
 var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 function problemarandom(){
-var numeroproblema=Math.floor(Math.random()*204)+1;
+var numeroproblema=Math.floor(Math.random()*261)+1;
 if(numeroproblema==1){fuente.textContent="2021.1 IMO"}
 else if(numeroproblema==2){fuente.textContent="2021.2 IMO"}
 else if(numeroproblema==3){fuente.textContent="2021.3 IMO"}
