@@ -1,7 +1,7 @@
 var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 function problemarandom(){
-var numeroproblema=Math.floor(Math.random()*78)+1;
+var numeroproblema=Math.floor(Math.random()*114)+1;
 if(numeroproblema==1){fuente.textContent="2021.1 IMO"}
 else if(numeroproblema==2){fuente.textContent="2021.2 IMO"}
 else if(numeroproblema==3){fuente.textContent="2021.3 IMO"}
@@ -80,4 +80,40 @@ else if(numeroproblema==75){fuente.textContent="2009.3 IMO"}
 else if(numeroproblema==76){fuente.textContent="2009.4 IMO"}
 else if(numeroproblema==77){fuente.textContent="2009.5 IMO"}
 else if(numeroproblema==78){fuente.textContent="2009.6 IMO"}
+else if(numeroproblema==79){fuente.textContent="2008.1 IMO"}
+else if(numeroproblema==80){fuente.textContent="2008.2 IMO"}
+else if(numeroproblema==81){fuente.textContent="2008.3 IMO"}
+else if(numeroproblema==82){fuente.textContent="2008.4 IMO"}
+else if(numeroproblema==83){fuente.textContent="2008.5 IMO"}
+else if(numeroproblema==84){fuente.textContent="2008.6 IMO"}
+else if(numeroproblema==85){fuente.textContent="2007.1 IMO"}
+else if(numeroproblema==86){fuente.textContent="2007.2 IMO"}
+else if(numeroproblema==87){fuente.textContent="2007.3 IMO"}
+else if(numeroproblema==88){fuente.textContent="2007.4 IMO"}
+else if(numeroproblema==89){fuente.textContent="2007.5 IMO"}
+else if(numeroproblema==90){fuente.textContent="2007.6 IMO"}
+else if(numeroproblema==108){fuente.textContent="2006.1 IMO"}
+else if(numeroproblema==91){fuente.textContent="2006.2 IMO"}
+else if(numeroproblema==92){fuente.textContent="2006.3 IMO"}
+else if(numeroproblema==93){fuente.textContent="2006.4 IMO"}
+else if(numeroproblema==94){fuente.textContent="2006.5 IMO"}
+else if(numeroproblema==95){fuente.textContent="2006.6 IMO"}
+else if(numeroproblema==96){fuente.textContent="2005.1 IMO"}
+else if(numeroproblema==97){fuente.textContent="2005.2 IMO"}
+else if(numeroproblema==98){fuente.textContent="2005.3 IMO"}
+else if(numeroproblema==99){fuente.textContent="2005.4 IMO"}
+else if(numeroproblema==100){fuente.textContent="2005.5 IMO"}
+else if(numeroproblema==101){fuente.textContent="2005.6 IMO"}
+else if(numeroproblema==102){fuente.textContent="2004.1 IMO"}
+else if(numeroproblema==103){fuente.textContent="2004.2 IMO"}
+else if(numeroproblema==104){fuente.textContent="2004.3 IMO"}
+else if(numeroproblema==105){fuente.textContent="2004.4 IMO"}
+else if(numeroproblema==106){fuente.textContent="2004.5 IMO"}
+else if(numeroproblema==107){fuente.textContent="2004.6 IMO"}
+else if(numeroproblema==109){fuente.textContent="2003.1 IMO"}
+else if(numeroproblema==110){fuente.textContent="2003.2 IMO"}
+else if(numeroproblema==111){fuente.textContent="2003.3 IMO"}
+else if(numeroproblema==112){fuente.textContent="2003.4 IMO"}
+else if(numeroproblema==113){fuente.textContent="2003.5 IMO"}
+else if(numeroproblema==114){fuente.textContent="2003.6 IMO"}
 }
