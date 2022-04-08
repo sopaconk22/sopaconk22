@@ -3,12 +3,12 @@ var fuente=document.getElementById("fuente");
 
 function aleatorio(){
   var randomproblem=Math.floor(Math.random()*6)+1;
-  if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="P1.jpg";
-  else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="P2.jpg";
-  else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="P3.jpg";
-  else if(randomproblem==4){fuente.textContent="2019.5 USAJMO"; dondever.src="P4.jpg";
-  else if(randomproblem==5){fuente.textContent="1985.5 Ibero"; dondever.src="P5.jpg";
-  else if(randomproblem==5){fuente.textContent="2018.3 España"; dondever.src="P6.jpg";
+  if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="P1.jpg";}
+  else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="P2.jpg";}
+  else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="P3.jpg";}
+  else if(randomproblem==4){fuente.textContent="2019.5 USAJMO"; dondever.src="P4.jpg";}
+  else if(randomproblem==5){fuente.textContent="1985.5 Ibero"; dondever.src="P5.jpg";}
+  else if(randomproblem==5){fuente.textContent="2018.3 España"; dondever.src="P6.jpg";}
 }
 
 function problemarandom2(){
