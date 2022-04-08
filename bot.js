@@ -1,6 +1,12 @@
 var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
+
 function problemarandom(){
+  var randomproblem=Math.floor(Math.random()*1)+1;
+  if(numeroproblema==1){fuente.textContent="2022.9.1 Acumulativo ONMAPS Jalisco"; dondever.src="P1.jpg"  
+}
+
+function problemarandom2(){
 var numeroproblema=Math.floor(Math.random()*374)+1;
 if(numeroproblema==1){fuente.textContent="2021.1 IMO"}
 else if(numeroproblema==2){fuente.textContent="2021.2 IMO"}
