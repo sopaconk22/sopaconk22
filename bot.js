@@ -388,4 +388,4 @@ else if(numeroproblema==372){fuente.textContent="1965.4 IMO"}
 else if(numeroproblema==373){fuente.textContent="1965.5 IMO"}
 else if(numeroproblema==374){fuente.textContent="1965.6 IMO"}
 
-}
+}}
