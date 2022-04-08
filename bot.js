@@ -8,7 +8,7 @@ function aleatorio(){
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="P3.jpg";}
   else if(randomproblem==4){fuente.textContent="2019.5 USAJMO"; dondever.src="P4.jpg";}
   else if(randomproblem==5){fuente.textContent="1985.5 Ibero"; dondever.src="P5.jpg";}
-  else if(randomproblem==5){fuente.textContent="2018.3 España"; dondever.src="P6.jpg";}
+  else if(randomproblem==6){fuente.textContent="2018.3 España"; dondever.src="P6.jpg";}
 }
 
 function problemarandom2(){
