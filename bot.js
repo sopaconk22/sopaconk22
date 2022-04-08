@@ -1,7 +1,7 @@
 var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
-function problemarandom(){
+function aleatorio(){
   var randomproblem=Math.floor(Math.random()*1)+1;
   if(numeroproblema==1){fuente.textContent="2022.9.1 Acumulativo ONMAPS Jalisco"; dondever.src="P1.jpg";
 }
