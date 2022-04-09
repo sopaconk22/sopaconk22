@@ -2,13 +2,21 @@ var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
 function aleatorio(){
-  var randomproblem=Math.floor(Math.random()*6)+1;
+  var randomproblem=Math.floor(Math.random()*14)+1;
   if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P1.jpg";}
   else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P2.jpg";}
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P3.jpg";}
   else if(randomproblem==4){fuente.textContent="2019.5 USAJMO"; dondever.src="problemas/P4.jpg";}
   else if(randomproblem==5){fuente.textContent="1985.5 Ibero"; dondever.src="problemas/P5.jpg";}
   else if(randomproblem==6){fuente.textContent="2018.3 España"; dondever.src="problemas/P6.jpg";}
+  else if(randomproblem==7){fuente.textContent="2017.1 España"; dondever.src="problemas/P7.jpg";}
+  else if(randomproblem==8){fuente.textContent="2015.5 España"; dondever.src="problemas/P8.jpg";}
+  else if(randomproblem==9){fuente.textContent="2007.G9.1 Manhattan MO"; dondever.src="problemas/P9.jpg";}
+  else if(randomproblem==10){fuente.textContent="2016.5 España"; dondever.src="problemas/P10.jpg";}
+  else if(randomproblem==11){fuente.textContent="2021.1 Benelux"; dondever.src="problemas/P11.jpg";}
+  else if(randomproblem==12){fuente.textContent="2022.1.1 Chipre JBMO TST"; dondever.src="problemas/P12.jpg";}
+  else if(randomproblem==13){fuente.textContent="2017.N2.2 IGO"; dondever.src="problemas/P13.jpg";}
+  else if(randomproblem==14){fuente.textContent="2020.N1 IMO Shortlist"; dondever.src="problemas/P14.jpg";}
 }
 
 function problemarandom2(){
