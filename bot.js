@@ -2,7 +2,7 @@ var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
 function aleatorio(){
-  var randomproblem=Math.floor(Math.random()*29)+1;
+  var randomproblem=Math.floor(Math.random()*35)+1;
   if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P1.jpg";}
   else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P2.jpg";}
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P3.jpg";}
@@ -32,6 +32,12 @@ function aleatorio(){
   else if(randomproblem==27){fuente.textContent="2022.5.13 IWYMIC Mexico TST"; dondever.src="problemas/P27.jpg";}
   else if(randomproblem==28){fuente.textContent="2022.5.14 IWYMIC Mexico TST"; dondever.src="problemas/P28.jpg";}
   else if(randomproblem==29){fuente.textContent="2022.5.15 IWYMIC Mexico TST"; dondever.src="problemas/P29.jpg";}
+  else if(randomproblem==30){fuente.textContent="2021.G10.3 Oral Moscow Geometry Olympiad"; dondever.src="problemas/P30.jpg";}
+  else if(randomproblem==31){fuente.textContent="2009.1 Mexico"; dondever.src="problemas/P31.jpg";}
+  else if(randomproblem==32){fuente.textContent="1978.4 IMO"; dondever.src="problemas/P32.jpg";}
+  else if(randomproblem==33){fuente.textContent="P10 Angle Chasing Jaime/Charli"; dondever.src="problemas/P33.jpg";}
+  else if(randomproblem==34){fuente.textContent="2016.1 Mexico"; dondever.src="problemas/P34.jpg";}
+  else if(randomproblem==35){fuente.textContent="2020.1 IMO"; dondever.src="problemas/P35.jpg";}
 }
 
 function problemarandom2(){
