@@ -2,7 +2,7 @@ var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
 function aleatorio(){
-  var randomproblem=Math.floor(Math.random()*51)+1;
+  var randomproblem=Math.floor(Math.random()*64)+1;
   if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P1.jpg";}
   else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P2.jpg";}
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P3.jpg";}
@@ -66,6 +66,7 @@ function aleatorio(){
   else if(randomproblem==61){fuente.textContent="P10 Lista Progresiones y Sumas Telescópicas IMC"; dondever.src="problemas/P61.jpg";}
   else if(randomproblem==62){fuente.textContent="P11 Lista Progresiones y Sumas Telescópicas IMC"; dondever.src="problemas/P62.jpg";}
   else if(randomproblem==63){fuente.textContent="P12 Lista Progresiones y Sumas Telescópicas IMC"; dondever.src="problemas/P63.jpg";}
+  else if(randomproblem==63){fuente.textContent="2022.G9.25 SASMO"; dondever.src="problemas/P64.jpg";}
 
 }
 
