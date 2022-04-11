@@ -53,7 +53,7 @@ function aleatorio(){
   else if(randomproblem==48){fuente.textContent="2022.6.13 IWYMIC Mexico TST"; dondever.src="problemas/P48.jpg";}
   else if(randomproblem==49){fuente.textContent="2022.6.14 IWYMIC Mexico TST"; dondever.src="problemas/P49.jpg";}
   else if(randomproblem==50){fuente.textContent="2022.6.15 IWYMIC Mexico TST"; dondever.src="problemas/P50.jpg";}
-  
+  else if(randomproblem==51){fuente.textContent="2011.4 Holanda BxMO TST"; dondever.src="problemas/P51.jpg";}
 
 }
 
