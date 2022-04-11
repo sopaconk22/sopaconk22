@@ -2,7 +2,7 @@ var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
 function aleatorio(){
-  var randomproblem=Math.floor(Math.random()*50)+1;
+  var randomproblem=Math.floor(Math.random()*51)+1;
   if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P1.jpg";}
   else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P2.jpg";}
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P3.jpg";}
@@ -54,6 +54,18 @@ function aleatorio(){
   else if(randomproblem==49){fuente.textContent="2022.6.14 IWYMIC Mexico TST"; dondever.src="problemas/P49.jpg";}
   else if(randomproblem==50){fuente.textContent="2022.6.15 IWYMIC Mexico TST"; dondever.src="problemas/P50.jpg";}
   else if(randomproblem==51){fuente.textContent="2011.4 Holanda BxMO TST"; dondever.src="problemas/P51.jpg";}
+  else if(randomproblem==52){fuente.textContent="P1 Lista Progresiones y Sumas Telescópicas IMC"; dondever.src="problemas/P52.jpg";}
+  else if(randomproblem==53){fuente.textContent="P2 Lista Progresiones y Sumas Telescópicas IMC"; dondever.src="problemas/P53.jpg";}
+  else if(randomproblem==54){fuente.textContent="P3 Lista Progresiones y Sumas Telescópicas IMC"; dondever.src="problemas/P54.jpg";}
+  else if(randomproblem==55){fuente.textContent="P4 Lista Progresiones y Sumas Telescópicas IMC"; dondever.src="problemas/P55.jpg";}
+  else if(randomproblem==56){fuente.textContent="P5 Lista Progresiones y Sumas Telescópicas IMC"; dondever.src="problemas/P56.jpg";}
+  else if(randomproblem==57){fuente.textContent="P6 Lista Progresiones y Sumas Telescópicas IMC"; dondever.src="problemas/P57.jpg";}
+  else if(randomproblem==58){fuente.textContent="P7 Lista Progresiones y Sumas Telescópicas IMC"; dondever.src="problemas/P58.jpg";}
+  else if(randomproblem==59){fuente.textContent="P8 Lista Progresiones y Sumas Telescópicas IMC"; dondever.src="problemas/P59.jpg";}
+  else if(randomproblem==60){fuente.textContent="P9 Lista Progresiones y Sumas Telescópicas IMC"; dondever.src="problemas/P60.jpg";}
+  else if(randomproblem==61){fuente.textContent="P10 Lista Progresiones y Sumas Telescópicas IMC"; dondever.src="problemas/P61.jpg";}
+  else if(randomproblem==62){fuente.textContent="P11 Lista Progresiones y Sumas Telescópicas IMC"; dondever.src="problemas/P62.jpg";}
+  else if(randomproblem==63){fuente.textContent="P12 Lista Progresiones y Sumas Telescópicas IMC"; dondever.src="problemas/P63.jpg";}
 
 }
 
