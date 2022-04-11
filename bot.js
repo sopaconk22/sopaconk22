@@ -66,7 +66,7 @@ function aleatorio(){
   else if(randomproblem==61){fuente.textContent="P10 Lista Progresiones y Sumas Telescópicas IMC"; dondever.src="problemas/P61.jpg";}
   else if(randomproblem==62){fuente.textContent="P11 Lista Progresiones y Sumas Telescópicas IMC"; dondever.src="problemas/P62.jpg";}
   else if(randomproblem==63){fuente.textContent="P12 Lista Progresiones y Sumas Telescópicas IMC"; dondever.src="problemas/P63.jpg";}
-  else if(randomproblem==63){fuente.textContent="2022.G9.25 SASMO"; dondever.src="problemas/P64.jpg";}
+  else if(randomproblem==64){fuente.textContent="2022.G9.25 SASMO"; dondever.src="problemas/P64.jpg";}
 
 }
 
