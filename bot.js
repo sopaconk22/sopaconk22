@@ -2,7 +2,7 @@ var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
 function aleatorio(){
-  var randomproblem=Math.floor(Math.random()*35)+1;
+  var randomproblem=Math.floor(Math.random()*50)+1;
   if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P1.jpg";}
   else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P2.jpg";}
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P3.jpg";}
@@ -38,6 +38,23 @@ function aleatorio(){
   else if(randomproblem==33){fuente.textContent="P10 Angle Chasing Jaime/Charli"; dondever.src="problemas/P33.jpg";}
   else if(randomproblem==34){fuente.textContent="2016.1 Mexico"; dondever.src="problemas/P34.jpg";}
   else if(randomproblem==35){fuente.textContent="2020.1 IMO"; dondever.src="problemas/P35.jpg";}
+  else if(randomproblem==36){fuente.textContent="2022.6.1 IWYMIC Mexico TST"; dondever.src="problemas/P36.jpg";}
+  else if(randomproblem==37){fuente.textContent="2022.6.2 IWYMIC Mexico TST"; dondever.src="problemas/P37.jpg";}
+  else if(randomproblem==38){fuente.textContent="2022.6.3 IWYMIC Mexico TST"; dondever.src="problemas/P38.jpg";}
+  else if(randomproblem==39){fuente.textContent="2022.6.4 IWYMIC Mexico TST"; dondever.src="problemas/P39.jpg";}
+  else if(randomproblem==40){fuente.textContent="2022.6.5 IWYMIC Mexico TST"; dondever.src="problemas/P40.jpg";}
+  else if(randomproblem==41){fuente.textContent="2022.6.6 IWYMIC Mexico TST"; dondever.src="problemas/P41.jpg";}
+  else if(randomproblem==42){fuente.textContent="2022.6.7 IWYMIC Mexico TST"; dondever.src="problemas/P42.jpg";}
+  else if(randomproblem==43){fuente.textContent="2022.6.8 IWYMIC Mexico TST"; dondever.src="problemas/P43.jpg";}
+  else if(randomproblem==44){fuente.textContent="2022.6.9 IWYMIC Mexico TST"; dondever.src="problemas/P44.jpg";}
+  else if(randomproblem==45){fuente.textContent="2022.6.10 IWYMIC Mexico TST"; dondever.src="problemas/P45.jpg";}
+  else if(randomproblem==46){fuente.textContent="2022.6.11 IWYMIC Mexico TST"; dondever.src="problemas/P46.jpg";}
+  else if(randomproblem==47){fuente.textContent="2022.6.12 IWYMIC Mexico TST"; dondever.src="problemas/P47.jpg";}
+  else if(randomproblem==48){fuente.textContent="2022.6.13 IWYMIC Mexico TST"; dondever.src="problemas/P48.jpg";}
+  else if(randomproblem==49){fuente.textContent="2022.6.14 IWYMIC Mexico TST"; dondever.src="problemas/P49.jpg";}
+  else if(randomproblem==50){fuente.textContent="2022.6.15 IWYMIC Mexico TST"; dondever.src="problemas/P50.jpg";}
+  
+
 }
 
 function problemarandom2(){
