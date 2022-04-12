@@ -2,7 +2,7 @@ var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
 function aleatorio(){
-  var randomproblem=Math.floor(Math.random()*214)+1;
+  var randomproblem=Math.floor(Math.random()*239)+1;
   if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P1.jpg";}
   else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P2.jpg";}
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P3.jpg";}
@@ -217,6 +217,32 @@ function aleatorio(){
   else if(randomproblem==212){fuente.textContent="P21 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P212.jpg";}
   else if(randomproblem==213){fuente.textContent="P22 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P213.jpg";}
   else if(randomproblem==214){fuente.textContent="P23 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P214.jpg";}
+  else if(randomproblem==215){fuente.textContent="P1 Lista LTE OMMBC"; dondever.src="problemas/P215.jpg";}
+  else if(randomproblem==216){fuente.textContent="P2 Lista LTE OMMBC"; dondever.src="problemas/P216.jpg";}
+  else if(randomproblem==217){fuente.textContent="P3 Lista LTE OMMBC"; dondever.src="problemas/P217.jpg";}
+  else if(randomproblem==218){fuente.textContent="P4 Lista LTE OMMBC"; dondever.src="problemas/P218.jpg";}
+  else if(randomproblem==219){fuente.textContent="P5 Lista LTE OMMBC"; dondever.src="problemas/P219.jpg";}
+  else if(randomproblem==220){fuente.textContent="P6 Lista LTE OMMBC"; dondever.src="problemas/P220.jpg";}
+  else if(randomproblem==221){fuente.textContent="P7 Lista LTE OMMBC"; dondever.src="problemas/P221.jpg";}
+  else if(randomproblem==222){fuente.textContent="P8 Lista LTE OMMBC"; dondever.src="problemas/P222.jpg";}
+  else if(randomproblem==223){fuente.textContent="P9 Lista LTE OMMBC"; dondever.src="problemas/P223.jpg";}
+  else if(randomproblem==224){fuente.textContent="P10 Lista LTE OMMBC"; dondever.src="problemas/P224.jpg";}
+  else if(randomproblem==225){fuente.textContent="P11 Lista LTE OMMBC"; dondever.src="problemas/P225.jpg";}
+  else if(randomproblem==226){fuente.textContent="P12 Lista LTE OMMBC"; dondever.src="problemas/P226.jpg";}
+  else if(randomproblem==227){fuente.textContent="P13 Lista LTE OMMBC"; dondever.src="problemas/P227.jpg";}
+  else if(randomproblem==228){fuente.textContent="P14 Lista LTE OMMBC"; dondever.src="problemas/P228.jpg";}
+  else if(randomproblem==229){fuente.textContent="P15 Lista LTE OMMBC"; dondever.src="problemas/P229.jpg";}
+  else if(randomproblem==230){fuente.textContent="P16 Lista LTE OMMBC"; dondever.src="problemas/P230.jpg";}
+  else if(randomproblem==231){fuente.textContent="P17 Lista LTE OMMBC"; dondever.src="problemas/P231.jpg";}
+  else if(randomproblem==232){fuente.textContent="P18 Lista LTE OMMBC"; dondever.src="problemas/P232.jpg";}
+  else if(randomproblem==233){fuente.textContent="P19 Lista LTE OMMBC"; dondever.src="problemas/P233.jpg";}
+  else if(randomproblem==234){fuente.textContent="P20 Lista LTE OMMBC"; dondever.src="problemas/P234.jpg";}
+  else if(randomproblem==235){fuente.textContent="P21 Lista LTE OMMBC"; dondever.src="problemas/P235.jpg";}
+  else if(randomproblem==236){fuente.textContent="P22 Lista LTE OMMBC"; dondever.src="problemas/P236.jpg";}
+  else if(randomproblem==237){fuente.textContent="P23 Lista LTE OMMBC"; dondever.src="problemas/P237.jpg";}
+  else if(randomproblem==238){fuente.textContent="P24 Lista LTE OMMBC"; dondever.src="problemas/P238.jpg";}
+  else if(randomproblem==239){fuente.textContent="P25 Lista LTE OMMBC"; dondever.src="problemas/P239.jpg";}
+  
 }
 
 function problemarandom2(){
