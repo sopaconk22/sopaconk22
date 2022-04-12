@@ -2,7 +2,7 @@ var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
 function aleatorio(){
-  var randomproblem=Math.floor(Math.random()*154)+1;
+  var randomproblem=Math.floor(Math.random()*155)+1;
   if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P1.jpg";}
   else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P2.jpg";}
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P3.jpg";}
@@ -157,6 +157,7 @@ function aleatorio(){
   else if(randomproblem==152){fuente.textContent="2022.4 EGMO"; dondever.src="problemas/P152.jpg";}
   else if(randomproblem==153){fuente.textContent="2022.5 EGMO"; dondever.src="problemas/P153.jpg";}
   else if(randomproblem==154){fuente.textContent="2022.6 EGMO"; dondever.src="problemas/P154.jpg";}
+  else if(randomproblem==155){fuente.textContent="2021.G9.3 Kyiv Mathematical Festival"; dondever.src="problemas/P155.jpg";}
   
 
 }
