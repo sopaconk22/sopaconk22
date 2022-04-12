@@ -2,7 +2,7 @@ var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
 function aleatorio(){
-  var randomproblem=Math.floor(Math.random()*118)+1;
+  var randomproblem=Math.floor(Math.random()*135)+1;
   if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P1.jpg";}
   else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P2.jpg";}
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P3.jpg";}
@@ -121,8 +121,23 @@ function aleatorio(){
   else if(randomproblem==116){fuente.textContent="2022.4 Selectivo ONMAPS Sinaloa"; dondever.src="problemas/P116.jpg";}
   else if(randomproblem==117){fuente.textContent="2022.5 Selectivo ONMAPS Sinaloa"; dondever.src="problemas/P117.jpg";}
   else if(randomproblem==118){fuente.textContent="2022.6 Selectivo ONMAPS Sinaloa"; dondever.src="problemas/P118.jpg";}
-  
-  
+  else if(randomproblem==119){fuente.textContent="P1 Lista Vieta IMC"; dondever.src="problemas/P119.jpg";}
+  else if(randomproblem==120){fuente.textContent="P2 Lista Vieta IMC"; dondever.src="problemas/P120.jpg";}
+  else if(randomproblem==121){fuente.textContent="P3 Lista Vieta IMC"; dondever.src="problemas/P121.jpg";}
+  else if(randomproblem==122){fuente.textContent="P4 Lista Vieta IMC"; dondever.src="problemas/P122.jpg";}
+  else if(randomproblem==123){fuente.textContent="P5 Lista Vieta IMC"; dondever.src="problemas/P123.jpg";}
+  else if(randomproblem==124){fuente.textContent="P6 Lista Vieta IMC"; dondever.src="problemas/P124.jpg";}
+  else if(randomproblem==125){fuente.textContent="P7 Lista Vieta IMC"; dondever.src="problemas/P125.jpg";}
+  else if(randomproblem==126){fuente.textContent="P8 Lista Vieta IMC"; dondever.src="problemas/P126.jpg";}
+  else if(randomproblem==127){fuente.textContent="P9 Lista Vieta IMC"; dondever.src="problemas/P127.jpg";}
+  else if(randomproblem==128){fuente.textContent="P10 Lista Vieta IMC"; dondever.src="problemas/P128.jpg";}
+  else if(randomproblem==129){fuente.textContent="P11 Lista Vieta IMC"; dondever.src="problemas/P129.jpg";}
+  else if(randomproblem==130){fuente.textContent="P12 Lista Vieta IMC"; dondever.src="problemas/P130.jpg";}
+  else if(randomproblem==131){fuente.textContent="P13 Lista Vieta IMC"; dondever.src="problemas/P131.jpg";}
+  else if(randomproblem==132){fuente.textContent="P14 Lista Vieta IMC"; dondever.src="problemas/P132.jpg";}
+  else if(randomproblem==133){fuente.textContent="P15 Lista Vieta IMC"; dondever.src="problemas/P133.jpg";}
+  else if(randomproblem==134){fuente.textContent="P16 Lista Vieta IMC"; dondever.src="problemas/P134.jpg";}
+  else if(randomproblem==135){fuente.textContent="P17 Lista Vieta IMC"; dondever.src="problemas/P135.jpg";}
 
 }
 
