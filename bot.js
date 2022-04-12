@@ -82,6 +82,39 @@ function aleatorio(){
   else if(randomproblem==77){fuente.textContent="2022.7.13 IWYMIC Mexico TST"; dondever.src="problemas/P77.jpg";}
   else if(randomproblem==78){fuente.textContent="2022.7.14 IWYMIC Mexico TST"; dondever.src="problemas/P78.jpg";}
   else if(randomproblem==79){fuente.textContent="2022.7.15 IWYMIC Mexico TST"; dondever.src="problemas/P79.jpg";}
+  else if(randomproblem==80){fuente.textContent="P1 Lista Polinomios y Raices IMC"; dondever.src="problemas/P80.jpg";}
+  else if(randomproblem==81){fuente.textContent="P2 Lista Polinomios y Raices IMC"; dondever.src="problemas/P81.jpg";}
+  else if(randomproblem==82){fuente.textContent="P3 Lista Polinomios y Raices IMC"; dondever.src="problemas/P82.jpg";}
+  else if(randomproblem==83){fuente.textContent="P4 Lista Polinomios y Raices IMC"; dondever.src="problemas/P83.jpg";}
+  else if(randomproblem==84){fuente.textContent="P5 Lista Polinomios y Raices IMC"; dondever.src="problemas/P84.jpg";}
+  else if(randomproblem==85){fuente.textContent="P6 Lista Polinomios y Raices IMC"; dondever.src="problemas/P85.jpg";}
+  else if(randomproblem==86){fuente.textContent="P7 Lista Polinomios y Raices IMC"; dondever.src="problemas/P86.jpg";}
+  else if(randomproblem==87){fuente.textContent="P8 Lista Polinomios y Raices IMC"; dondever.src="problemas/P87.jpg";}
+  else if(randomproblem==88){fuente.textContent="P9 Lista Polinomios y Raices IMC"; dondever.src="problemas/P88.jpg";}
+  else if(randomproblem==89){fuente.textContent="P10 Lista Polinomios y Raices IMC"; dondever.src="problemas/P89.jpg";}
+  else if(randomproblem==90){fuente.textContent="P11 Lista Polinomios y Raices IMC"; dondever.src="problemas/P90.jpg";}
+  else if(randomproblem==91){fuente.textContent="P12 Lista Polinomios y Raices IMC"; dondever.src="problemas/P91.jpg";}
+  else if(randomproblem==92){fuente.textContent="P13 Lista Polinomios y Raices IMC"; dondever.src="problemas/P92.jpg";}
+  else if(randomproblem==93){fuente.textContent="P14 Lista Polinomios y Raices IMC"; dondever.src="problemas/P93.jpg";}
+  else if(randomproblem==94){fuente.textContent="P15 Lista Polinomios y Raices IMC"; dondever.src="problemas/P94.jpg";}
+  else if(randomproblem==95){fuente.textContent="P16 Lista Polinomios y Raices IMC"; dondever.src="problemas/P95.jpg";}
+  else if(randomproblem==96){fuente.textContent="P17 Lista Polinomios y Raices IMC"; dondever.src="problemas/P96.jpg";}
+  else if(randomproblem==97){fuente.textContent="P18 Lista Polinomios y Raices IMC"; dondever.src="problemas/P97.jpg";}
+  else if(randomproblem==98){fuente.textContent="P19 Lista Polinomios y Raices IMC"; dondever.src="problemas/P98.jpg";}
+  else if(randomproblem==99){fuente.textContent="P20 Lista Polinomios y Raices IMC"; dondever.src="problemas/P99.jpg";}
+  else if(randomproblem==100){fuente.textContent="P21 Lista Polinomios y Raices IMC"; dondever.src="problemas/P100.jpg";}
+  else if(randomproblem==101){fuente.textContent="P22 Lista Polinomios y Raices IMC"; dondever.src="problemas/P101.jpg";}
+  else if(randomproblem==102){fuente.textContent="P23 Lista Polinomios y Raices IMC"; dondever.src="problemas/P102.jpg";}
+  else if(randomproblem==103){fuente.textContent="P24 Lista Polinomios y Raices IMC"; dondever.src="problemas/P103.jpg";}
+  else if(randomproblem==104){fuente.textContent="P25 Lista Polinomios y Raices IMC"; dondever.src="problemas/P104.jpg";}
+  else if(randomproblem==105){fuente.textContent="P26 Lista Polinomios y Raices IMC"; dondever.src="problemas/P105.jpg";}
+  else if(randomproblem==106){fuente.textContent="P27 Lista Polinomios y Raices IMC"; dondever.src="problemas/P106.jpg";}
+  else if(randomproblem==107){fuente.textContent="P28 Lista Polinomios y Raices IMC"; dondever.src="problemas/P107.jpg";}
+  else if(randomproblem==108){fuente.textContent="P29 Lista Polinomios y Raices IMC"; dondever.src="problemas/P108.jpg";}
+  else if(randomproblem==109){fuente.textContent="P30 Lista Polinomios y Raices IMC"; dondever.src="problemas/P109.jpg";}
+  else if(randomproblem==110){fuente.textContent="P31 Lista Polinomios y Raices IMC"; dondever.src="problemas/P110.jpg";}
+  else if(randomproblem==111){fuente.textContent="P32 Lista Polinomios y Raices IMC"; dondever.src="problemas/P111.jpg";}
+  else if(randomproblem==112){fuente.textContent="P33 Lista Polinomios y Raices IMC"; dondever.src="problemas/P112.jpg";}
   
   
 
