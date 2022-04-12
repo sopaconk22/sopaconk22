@@ -2,7 +2,7 @@ var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
 function aleatorio(){
-  var randomproblem=Math.floor(Math.random()*138)+1;
+  var randomproblem=Math.floor(Math.random()*148)+1;
   if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P1.jpg";}
   else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P2.jpg";}
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P3.jpg";}
@@ -141,7 +141,16 @@ function aleatorio(){
   else if(randomproblem==136){fuente.textContent="2022.1.1 ONMAPS Jalisco TST"; dondever.src="problemas/P136.jpg";}
   else if(randomproblem==137){fuente.textContent="2022.1.2 ONMAPS Jalisco TST"; dondever.src="problemas/P137.jpg";}
   else if(randomproblem==138){fuente.textContent="2022.1.3 ONMAPS Jalisco TST"; dondever.src="problemas/P138.jpg";}
-  
+  else if(randomproblem==139){fuente.textContent="P1 Lista Variado IMC"; dondever.src="problemas/P139.jpg";}
+  else if(randomproblem==140){fuente.textContent="P2 Lista Variado IMC"; dondever.src="problemas/P140.jpg";}
+  else if(randomproblem==141){fuente.textContent="P3 Lista Variado IMC"; dondever.src="problemas/P141.jpg";}
+  else if(randomproblem==142){fuente.textContent="P4 Lista Variado IMC"; dondever.src="problemas/P142.jpg";}
+  else if(randomproblem==143){fuente.textContent="P5 Lista Variado IMC"; dondever.src="problemas/P143.jpg";}
+  else if(randomproblem==144){fuente.textContent="P6 Lista Variado IMC"; dondever.src="problemas/P144.jpg";}
+  else if(randomproblem==145){fuente.textContent="P7 Lista Variado IMC"; dondever.src="problemas/P145.jpg";}
+  else if(randomproblem==146){fuente.textContent="P8 Lista Variado IMC"; dondever.src="problemas/P146.jpg";}
+  else if(randomproblem==147){fuente.textContent="P9 Lista Variado IMC"; dondever.src="problemas/P147.jpg";}
+  else if(randomproblem==148){fuente.textContent="P10 Lista Variado IMC"; dondever.src="problemas/P148.jpg";}
 
 }
 
