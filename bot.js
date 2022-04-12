@@ -2,7 +2,7 @@ var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
 function aleatorio(){
-  var randomproblem=Math.floor(Math.random()*79)+1;
+  var randomproblem=Math.floor(Math.random()*112)+1;
   if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P1.jpg";}
   else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P2.jpg";}
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P3.jpg";}
@@ -113,7 +113,7 @@ function aleatorio(){
   else if(randomproblem==108){fuente.textContent="P29 Lista Polinomios y Raices IMC"; dondever.src="problemas/P108.jpg";}
   else if(randomproblem==109){fuente.textContent="P30 Lista Polinomios y Raices IMC"; dondever.src="problemas/P109.jpg";}
   else if(randomproblem==110){fuente.textContent="P31 Lista Polinomios y Raices IMC"; dondever.src="problemas/P110.jpg";}
-  else if(randomproblem==111){fuente.textContent="P32 Lista Polinomios y Raices IMC"; dondever.src="problemas/P111.jpg";}
+  else if(randomproblem==111){fuente.textContent="2008.5 OMCC"; dondever.src="problemas/P111.jpg";}
   else if(randomproblem==112){fuente.textContent="P33 Lista Polinomios y Raices IMC"; dondever.src="problemas/P112.jpg";}
   
   
