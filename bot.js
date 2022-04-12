@@ -2,7 +2,7 @@ var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
 function aleatorio(){
-  var randomproblem=Math.floor(Math.random()*155)+1;
+  var randomproblem=Math.floor(Math.random()*161)+1;
   if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P1.jpg";}
   else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P2.jpg";}
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P3.jpg";}
@@ -158,7 +158,12 @@ function aleatorio(){
   else if(randomproblem==153){fuente.textContent="2022.5 EGMO"; dondever.src="problemas/P153.jpg";}
   else if(randomproblem==154){fuente.textContent="2022.6 EGMO"; dondever.src="problemas/P154.jpg";}
   else if(randomproblem==155){fuente.textContent="2021.G9.3 Kyiv Mathematical Festival"; dondever.src="problemas/P155.jpg";}
-  
+  else if(randomproblem==156){fuente.textContent="2021.1 Mexico"; dondever.src="problemas/P156.jpg";}
+  else if(randomproblem==157){fuente.textContent="2021.2 Mexico"; dondever.src="problemas/P157.jpg";}
+  else if(randomproblem==158){fuente.textContent="2021.3 Mexico"; dondever.src="problemas/P158.jpg";}
+  else if(randomproblem==159){fuente.textContent="2021.4 Mexico"; dondever.src="problemas/P159.jpg";}
+  else if(randomproblem==160){fuente.textContent="2021.5 Mexico"; dondever.src="problemas/P160.jpg";}
+  else if(randomproblem==161){fuente.textContent="2021.6 Mexico"; dondever.src="problemas/P161.jpg";}
 
 }
 
