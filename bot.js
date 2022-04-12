@@ -67,6 +67,23 @@ function aleatorio(){
   else if(randomproblem==62){fuente.textContent="P11 Lista Progresiones y Sumas Telescópicas IMC"; dondever.src="problemas/P62.jpg";}
   else if(randomproblem==63){fuente.textContent="P12 Lista Progresiones y Sumas Telescópicas IMC"; dondever.src="problemas/P63.jpg";}
   else if(randomproblem==64){fuente.textContent="2022.G9.25 SASMO"; dondever.src="problemas/P64.jpg";}
+  else if(randomproblem==65){fuente.textContent="2022.7.1 IWYMIC Mexico TST"; dondever.src="problemas/P65.jpg";}
+  else if(randomproblem==66){fuente.textContent="2022.7.2 IWYMIC Mexico TST"; dondever.src="problemas/P66.jpg";}
+  else if(randomproblem==67){fuente.textContent="2022.7.3 IWYMIC Mexico TST"; dondever.src="problemas/P67.jpg";}
+  else if(randomproblem==68){fuente.textContent="2022.7.4 IWYMIC Mexico TST"; dondever.src="problemas/P68.jpg";}
+  else if(randomproblem==69){fuente.textContent="2022.7.5 IWYMIC Mexico TST"; dondever.src="problemas/P69.jpg";}
+  else if(randomproblem==70){fuente.textContent="2022.7.6 IWYMIC Mexico TST"; dondever.src="problemas/P70.jpg";}
+  else if(randomproblem==71){fuente.textContent="2022.7.7 IWYMIC Mexico TST"; dondever.src="problemas/P71.jpg";}
+  else if(randomproblem==72){fuente.textContent="2022.7.8 IWYMIC Mexico TST"; dondever.src="problemas/P72.jpg";}
+  else if(randomproblem==73){fuente.textContent="2022.7.9 IWYMIC Mexico TST"; dondever.src="problemas/P73.jpg";}
+  else if(randomproblem==74){fuente.textContent="2022.7.10 IWYMIC Mexico TST"; dondever.src="problemas/P74.jpg";}
+  else if(randomproblem==75){fuente.textContent="2022.7.11 IWYMIC Mexico TST"; dondever.src="problemas/P75.jpg";}
+  else if(randomproblem==76){fuente.textContent="2022.7.12 IWYMIC Mexico TST"; dondever.src="problemas/P76.jpg";}
+  else if(randomproblem==77){fuente.textContent="2022.7.13 IWYMIC Mexico TST"; dondever.src="problemas/P77.jpg";}
+  else if(randomproblem==78){fuente.textContent="2022.7.14 IWYMIC Mexico TST"; dondever.src="problemas/P78.jpg";}
+  else if(randomproblem==79){fuente.textContent="2022.7.15 IWYMIC Mexico TST"; dondever.src="problemas/P79.jpg";}
+  
+  
 
 }
 
