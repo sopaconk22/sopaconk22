@@ -2,7 +2,7 @@ var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
 function aleatorio(){
-  var randomproblem=Math.floor(Math.random()*112)+1;
+  var randomproblem=Math.floor(Math.random()*118)+1;
   if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P1.jpg";}
   else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P2.jpg";}
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P3.jpg";}
@@ -115,6 +115,12 @@ function aleatorio(){
   else if(randomproblem==110){fuente.textContent="P31 Lista Polinomios y Raices IMC"; dondever.src="problemas/P110.jpg";}
   else if(randomproblem==111){fuente.textContent="2008.5 OMCC"; dondever.src="problemas/P111.jpg";}
   else if(randomproblem==112){fuente.textContent="P33 Lista Polinomios y Raices IMC"; dondever.src="problemas/P112.jpg";}
+  else if(randomproblem==113){fuente.textContent="2022.1 Selectivo ONMAPS Sinaloa"; dondever.src="problemas/P113.jpg";}
+  else if(randomproblem==114){fuente.textContent="2022.2 Selectivo ONMAPS Sinaloa"; dondever.src="problemas/P114.jpg";}
+  else if(randomproblem==115){fuente.textContent="2022.3 Selectivo ONMAPS Sinaloa"; dondever.src="problemas/P115.jpg";}
+  else if(randomproblem==116){fuente.textContent="2022.4 Selectivo ONMAPS Sinaloa"; dondever.src="problemas/P116.jpg";}
+  else if(randomproblem==117){fuente.textContent="2022.5 Selectivo ONMAPS Sinaloa"; dondever.src="problemas/P117.jpg";}
+  else if(randomproblem==118){fuente.textContent="2022.6 Selectivo ONMAPS Sinaloa"; dondever.src="problemas/P118.jpg";}
   
   
 
