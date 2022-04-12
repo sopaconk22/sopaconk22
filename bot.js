@@ -243,6 +243,9 @@ function aleatorio(){
   else if(randomproblem==238){fuente.textContent="P24 Lista LTE OMMBC"; dondever.src="problemas/P238.jpg";}
   else if(randomproblem==239){fuente.textContent="P25 Lista LTE OMMBC"; dondever.src="problemas/P239.jpg";}
   
+  
+  
+  console.log(randomproblem);
 }
 
 function problemarandom2(){
