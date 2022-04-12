@@ -138,6 +138,10 @@ function aleatorio(){
   else if(randomproblem==133){fuente.textContent="P15 Lista Vieta IMC"; dondever.src="problemas/P133.jpg";}
   else if(randomproblem==134){fuente.textContent="P16 Lista Vieta IMC"; dondever.src="problemas/P134.jpg";}
   else if(randomproblem==135){fuente.textContent="P17 Lista Vieta IMC"; dondever.src="problemas/P135.jpg";}
+  else if(randomproblem==136){fuente.textContent="2022.1.1 ONMAPS Jalisco TST"; dondever.src="problemas/P136.jpg";}
+  else if(randomproblem==137){fuente.textContent="2022.1.2 ONMAPS Jalisco TST"; dondever.src="problemas/P137.jpg";}
+  else if(randomproblem==138){fuente.textContent="2022.1.3 ONMAPS Jalisco TST"; dondever.src="problemas/P138.jpg";}
+  
 
 }
 
