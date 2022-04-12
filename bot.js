@@ -2,7 +2,7 @@ var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
 function aleatorio(){
-  var randomproblem=Math.floor(Math.random()*161)+1;
+  var randomproblem=Math.floor(Math.random()*181)+1;
   if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P1.jpg";}
   else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P2.jpg";}
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P3.jpg";}
@@ -164,6 +164,26 @@ function aleatorio(){
   else if(randomproblem==159){fuente.textContent="2021.4 Mexico"; dondever.src="problemas/P159.jpg";}
   else if(randomproblem==160){fuente.textContent="2021.5 Mexico"; dondever.src="problemas/P160.jpg";}
   else if(randomproblem==161){fuente.textContent="2021.6 Mexico"; dondever.src="problemas/P161.jpg";}
+  else if(randomproblem==162){fuente.textContent="P1 Lista Sucesiones IMC"; dondever.src="problemas/P162.jpg";}
+  else if(randomproblem==163){fuente.textContent="P2 Lista Sucesiones IMC"; dondever.src="problemas/P163.jpg";}
+  else if(randomproblem==164){fuente.textContent="P3 Lista Sucesiones IMC"; dondever.src="problemas/P164.jpg";}
+  else if(randomproblem==165){fuente.textContent="P4 Lista Sucesiones IMC"; dondever.src="problemas/P165.jpg";}
+  else if(randomproblem==166){fuente.textContent="P5 Lista Sucesiones IMC"; dondever.src="problemas/P166.jpg";}
+  else if(randomproblem==167){fuente.textContent="P6 Lista Sucesiones IMC"; dondever.src="problemas/P167.jpg";}
+  else if(randomproblem==168){fuente.textContent="P7 Lista Sucesiones IMC"; dondever.src="problemas/P168.jpg";}
+  else if(randomproblem==169){fuente.textContent="P8 Lista Sucesiones IMC"; dondever.src="problemas/P169.jpg";}
+  else if(randomproblem==170){fuente.textContent="P9 Lista Sucesiones IMC"; dondever.src="problemas/P170.jpg";}
+  else if(randomproblem==171){fuente.textContent="P10 Lista Sucesiones IMC"; dondever.src="problemas/P171.jpg";}
+  else if(randomproblem==172){fuente.textContent="P11 Lista Sucesiones IMC"; dondever.src="problemas/P172.jpg";}
+  else if(randomproblem==173){fuente.textContent="P12 Lista Sucesiones IMC"; dondever.src="problemas/P173.jpg";}
+  else if(randomproblem==174){fuente.textContent="P13 Lista Sucesiones IMC"; dondever.src="problemas/P174.jpg";}
+  else if(randomproblem==175){fuente.textContent="P14 Lista Sucesiones IMC"; dondever.src="problemas/P175.jpg";}
+  else if(randomproblem==176){fuente.textContent="P15 Lista Sucesiones IMC"; dondever.src="problemas/P176.jpg";}
+  else if(randomproblem==177){fuente.textContent="P16 Lista Sucesiones IMC"; dondever.src="problemas/P177.jpg";}
+  else if(randomproblem==178){fuente.textContent="P17 Lista Sucesiones IMC"; dondever.src="problemas/P178.jpg";}
+  else if(randomproblem==179){fuente.textContent="P18 Lista Sucesiones IMC"; dondever.src="problemas/P179.jpg";}
+  else if(randomproblem==180){fuente.textContent="P19 Lista Sucesiones IMC"; dondever.src="problemas/P180.jpg";}
+  else if(randomproblem==181){fuente.textContent="P20 Lista Sucesiones IMC"; dondever.src="problemas/P181.jpg";}
 
 }
 
