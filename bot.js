@@ -2,7 +2,7 @@ var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
 function aleatorio(){
-  var randomproblem=Math.floor(Math.random()*191)+1;
+  var randomproblem=Math.floor(Math.random()*214)+1;
   if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P1.jpg";}
   else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P2.jpg";}
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P3.jpg";}
@@ -194,6 +194,29 @@ function aleatorio(){
   else if(randomproblem==189){fuente.textContent="P8 Lista Geo Jaime/Charli"; dondever.src="problemas/P189.jpg";}
   else if(randomproblem==190){fuente.textContent="P9 Lista Geo Jaime/Charli"; dondever.src="problemas/P190.jpg";}
   else if(randomproblem==191){fuente.textContent="P10 Lista Geo Jaime/Charli"; dondever.src="problemas/P191.jpg";}
+  else if(randomproblem==192){fuente.textContent="P1 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P192.jpg";}
+  else if(randomproblem==193){fuente.textContent="P2 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P193.jpg";}
+  else if(randomproblem==194){fuente.textContent="P3 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P194.jpg";}
+  else if(randomproblem==195){fuente.textContent="P4 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P195.jpg";}
+  else if(randomproblem==196){fuente.textContent="P5 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P196.jpg";}
+  else if(randomproblem==197){fuente.textContent="P6 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P197.jpg";}
+  else if(randomproblem==198){fuente.textContent="P7 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P198.jpg";}
+  else if(randomproblem==199){fuente.textContent="P8 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P199.jpg";}
+  else if(randomproblem==200){fuente.textContent="P9 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P200.jpg";}
+  else if(randomproblem==201){fuente.textContent="P10 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P201.jpg";}
+  else if(randomproblem==202){fuente.textContent="P11 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P202.jpg";}
+  else if(randomproblem==203){fuente.textContent="P12 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P203.jpg";}
+  else if(randomproblem==204){fuente.textContent="P13 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P204.jpg";}
+  else if(randomproblem==205){fuente.textContent="P14 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P205.jpg";}
+  else if(randomproblem==206){fuente.textContent="P15 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P206.jpg";}
+  else if(randomproblem==207){fuente.textContent="P16 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P207.jpg";}
+  else if(randomproblem==208){fuente.textContent="P17 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P208.jpg";}
+  else if(randomproblem==209){fuente.textContent="P18 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P200.jpg";}
+  else if(randomproblem==210){fuente.textContent="P19 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P210.jpg";}
+  else if(randomproblem==211){fuente.textContent="P20 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P211.jpg";}
+  else if(randomproblem==212){fuente.textContent="P21 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P212.jpg";}
+  else if(randomproblem==213){fuente.textContent="P22 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P213.jpg";}
+  else if(randomproblem==214){fuente.textContent="P23 Lista Angulos en el Triangulo IMC"; dondever.src="problemas/P214.jpg";}
 }
 
 function problemarandom2(){
