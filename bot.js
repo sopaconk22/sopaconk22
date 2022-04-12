@@ -2,7 +2,7 @@ var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
 function aleatorio(){
-  var randomproblem=Math.floor(Math.random()*148)+1;
+  var randomproblem=Math.floor(Math.random()*154)+1;
   if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P1.jpg";}
   else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P2.jpg";}
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P3.jpg";}
@@ -151,6 +151,13 @@ function aleatorio(){
   else if(randomproblem==146){fuente.textContent="P8 Lista Variado IMC"; dondever.src="problemas/P146.jpg";}
   else if(randomproblem==147){fuente.textContent="P9 Lista Variado IMC"; dondever.src="problemas/P147.jpg";}
   else if(randomproblem==148){fuente.textContent="P10 Lista Variado IMC"; dondever.src="problemas/P148.jpg";}
+  else if(randomproblem==149){fuente.textContent="2022.1 EGMO"; dondever.src="problemas/P149.jpg";}
+  else if(randomproblem==150){fuente.textContent="2022.2 EGMO"; dondever.src="problemas/P150.jpg";}
+  else if(randomproblem==151){fuente.textContent="2022.3 EGMO"; dondever.src="problemas/P151.jpg";}
+  else if(randomproblem==152){fuente.textContent="2022.4 EGMO"; dondever.src="problemas/P152.jpg";}
+  else if(randomproblem==153){fuente.textContent="2022.5 EGMO"; dondever.src="problemas/P153.jpg";}
+  else if(randomproblem==154){fuente.textContent="2022.6 EGMO"; dondever.src="problemas/P154.jpg";}
+  
 
 }
 
