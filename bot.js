@@ -2,7 +2,7 @@ var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
 function aleatorio(){
-  var randomproblem=Math.floor(Math.random()*181)+1;
+  var randomproblem=Math.floor(Math.random()*191)+1;
   if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P1.jpg";}
   else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P2.jpg";}
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P3.jpg";}
@@ -184,7 +184,16 @@ function aleatorio(){
   else if(randomproblem==179){fuente.textContent="P18 Lista Sucesiones IMC"; dondever.src="problemas/P179.jpg";}
   else if(randomproblem==180){fuente.textContent="P19 Lista Sucesiones IMC"; dondever.src="problemas/P180.jpg";}
   else if(randomproblem==181){fuente.textContent="P20 Lista Sucesiones IMC"; dondever.src="problemas/P181.jpg";}
-
+  else if(randomproblem==182){fuente.textContent="P1 Lista Geo Jaime/Charli"; dondever.src="problemas/P182.jpg";}
+  else if(randomproblem==183){fuente.textContent="P2 Lista Geo Jaime/Charli"; dondever.src="problemas/P183.jpg";}
+  else if(randomproblem==184){fuente.textContent="P3 Lista Geo Jaime/Charli"; dondever.src="problemas/P184.jpg";}
+  else if(randomproblem==185){fuente.textContent="P4 Lista Geo Jaime/Charli"; dondever.src="problemas/P185.jpg";}
+  else if(randomproblem==186){fuente.textContent="P5 Lista Geo Jaime/Charli"; dondever.src="problemas/P186.jpg";}
+  else if(randomproblem==187){fuente.textContent="P6 Lista Geo Jaime/Charli"; dondever.src="problemas/P187.jpg";}
+  else if(randomproblem==188){fuente.textContent="P7 Lista Geo Jaime/Charli"; dondever.src="problemas/P188.jpg";}
+  else if(randomproblem==189){fuente.textContent="P8 Lista Geo Jaime/Charli"; dondever.src="problemas/P189.jpg";}
+  else if(randomproblem==190){fuente.textContent="P9 Lista Geo Jaime/Charli"; dondever.src="problemas/P190.jpg";}
+  else if(randomproblem==191){fuente.textContent="P10 Lista Geo Jaime/Charli"; dondever.src="problemas/P191.jpg";}
 }
 
 function problemarandom2(){
