@@ -2,7 +2,7 @@ var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
 function aleatorio(){
-  var randomproblem=Math.floor(Math.random()*239)+1;
+  var randomproblem=Math.floor(Math.random()*257)+1;
   if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P1.jpg";}
   else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P2.jpg";}
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P3.jpg";}
@@ -242,7 +242,24 @@ function aleatorio(){
   else if(randomproblem==237){fuente.textContent="P23 Lista LTE OMMBC"; dondever.src="problemas/P237.jpg";}
   else if(randomproblem==238){fuente.textContent="P24 Lista LTE OMMBC"; dondever.src="problemas/P238.jpg";}
   else if(randomproblem==239){fuente.textContent="P25 Lista LTE OMMBC"; dondever.src="problemas/P239.jpg";}
-  
+  else if(randomproblem==240){fuente.textContent="2017.G12.4 Kosovo"; dondever.src="problemas/P240.jpg";}
+  else if(randomproblem==241){fuente.textContent="2021.1 Lusophon MO"; dondever.src="problemas/P241.jpg";}
+  else if(randomproblem==242){fuente.textContent="2022.2 Canada"; dondever.src="problemas/P242.jpg";}
+  else if(randomproblem==243){fuente.textContent="2022.3 Utah MO"; dondever.src="problemas/P243.jpg";}
+  else if(randomproblem==244){fuente.textContent="2022.2.1 OMCC Mexico TST"; dondever.src="problemas/P244.jpg";}
+  else if(randomproblem==245){fuente.textContent="2022.1 Numerense"; dondever.src="problemas/P245.jpg";}
+  else if(randomproblem==246){fuente.textContent="2022.2 Numerense"; dondever.src="problemas/P246.jpg";}
+  else if(randomproblem==247){fuente.textContent="2022.3 Numerense"; dondever.src="problemas/P247.jpg";}
+  else if(randomproblem==248){fuente.textContent="2022.4 Numerense"; dondever.src="problemas/P248.jpg";}
+  else if(randomproblem==249){fuente.textContent="2022.5 Numerense"; dondever.src="problemas/P249.jpg";}
+  else if(randomproblem==250){fuente.textContent="2022.6 Numerense"; dondever.src="problemas/P250.jpg";}
+  else if(randomproblem==251){fuente.textContent="2022.7 Numerense"; dondever.src="problemas/P251.jpg";}
+  else if(randomproblem==252){fuente.textContent="2022.8 Numerense"; dondever.src="problemas/P252.jpg";}
+  else if(randomproblem==253){fuente.textContent="2022.9 Numerense"; dondever.src="problemas/P253.jpg";}
+  else if(randomproblem==254){fuente.textContent="2022.1.1 OMCC Mexico TST"; dondever.src="problemas/P254.jpg";}
+  else if(randomproblem==255){fuente.textContent="2022.1.2 OMCC/IMO/EGMO Mexico TST"; dondever.src="problemas/P255.jpg";}
+  else if(randomproblem==256){fuente.textContent="2022.1.3 OMCC/IMO/EGMO Mexico TST"; dondever.src="problemas/P256.jpg";}
+  else if(randomproblem==257){fuente.textContent="2022.1.4 IMO/EGMO Mexico TST"; dondever.src="problemas/P257.jpg";}
   
   
   console.log(randomproblem);
