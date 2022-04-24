@@ -260,6 +260,36 @@ function aleatorio(){
   else if(randomproblem==255){fuente.textContent="2022.1.2 OMCC/IMO/EGMO Mexico TST"; dondever.src="problemas/P255.jpg";}
   else if(randomproblem==256){fuente.textContent="2022.1.3 OMCC/IMO/EGMO Mexico TST"; dondever.src="problemas/P256.jpg";}
   else if(randomproblem==257){fuente.textContent="2022.1.4 IMO/EGMO Mexico TST"; dondever.src="problemas/P257.jpg";}
+  else if(randomproblem==258){fuente.textContent="2022.8.1 IWYMIC Mexico TST"; dondever.src="problemas/P258.jpg";}
+  else if(randomproblem==259){fuente.textContent="2022.8.2 IWYMIC Mexico TST"; dondever.src="problemas/P259.jpg";}
+  else if(randomproblem==260){fuente.textContent="2022.8.3 IWYMIC Mexico TST"; dondever.src="problemas/P260.jpg";}
+  else if(randomproblem==261){fuente.textContent="2022.8.4 IWYMIC Mexico TST"; dondever.src="problemas/P261.jpg";}
+  else if(randomproblem==262){fuente.textContent="2022.8.5 IWYMIC Mexico TST"; dondever.src="problemas/P262.jpg";}
+  else if(randomproblem==263){fuente.textContent="2022.8.6 IWYMIC Mexico TST"; dondever.src="problemas/P263.jpg";}
+  else if(randomproblem==264){fuente.textContent="2022.8.7 IWYMIC Mexico TST"; dondever.src="problemas/P264.jpg";}
+  else if(randomproblem==265){fuente.textContent="2022.8.8 IWYMIC Mexico TST"; dondever.src="problemas/P265.jpg";}
+  else if(randomproblem==266){fuente.textContent="2022.8.9 IWYMIC Mexico TST"; dondever.src="problemas/P266.jpg";}
+  else if(randomproblem==267){fuente.textContent="2022.8.10 IWYMIC Mexico TST"; dondever.src="problemas/P267.jpg";}
+  else if(randomproblem==268){fuente.textContent="2022.8.11 IWYMIC Mexico TST"; dondever.src="problemas/P268.jpg";}
+  else if(randomproblem==269){fuente.textContent="2022.8.12 IWYMIC Mexico TST"; dondever.src="problemas/P269.jpg";}
+  else if(randomproblem==270){fuente.textContent="2022.8.13 IWYMIC Mexico TST"; dondever.src="problemas/P270.jpg";}
+  else if(randomproblem==271){fuente.textContent="2022.8.14 IWYMIC Mexico TST"; dondever.src="problemas/P271.jpg";}
+  else if(randomproblem==272){fuente.textContent="2022.8.15 IWYMIC Mexico TST"; dondever.src="problemas/P272.jpg";}
+  else if(randomproblem==273){fuente.textContent="2022.9.1 IWYMIC Mexico TST"; dondever.src="problemas/P273.jpg";}
+  else if(randomproblem==274){fuente.textContent="2022.9.2 IWYMIC Mexico TST"; dondever.src="problemas/P274.jpg";}
+  else if(randomproblem==275){fuente.textContent="2022.9.3 IWYMIC Mexico TST"; dondever.src="problemas/P275.jpg";}
+  else if(randomproblem==276){fuente.textContent="2022.9.4 IWYMIC Mexico TST"; dondever.src="problemas/P276.jpg";}
+  else if(randomproblem==277){fuente.textContent="2022.9.5 IWYMIC Mexico TST"; dondever.src="problemas/P277.jpg";}
+  else if(randomproblem==278){fuente.textContent="2022.9.6 IWYMIC Mexico TST"; dondever.src="problemas/P278.jpg";}
+  else if(randomproblem==279){fuente.textContent="2022.9.7 IWYMIC Mexico TST"; dondever.src="problemas/P279.jpg";}
+  else if(randomproblem==280){fuente.textContent="2022.9.8 IWYMIC Mexico TST"; dondever.src="problemas/P280.jpg";}
+  else if(randomproblem==281){fuente.textContent="2022.9.9 IWYMIC Mexico TST"; dondever.src="problemas/P281.jpg";}
+  else if(randomproblem==282){fuente.textContent="2022.9.10 IWYMIC Mexico TST"; dondever.src="problemas/P282.jpg";}
+  else if(randomproblem==283){fuente.textContent="2022.9.11 IWYMIC Mexico TST"; dondever.src="problemas/P283.jpg";}
+  else if(randomproblem==284){fuente.textContent="2022.9.12 IWYMIC Mexico TST"; dondever.src="problemas/P284.jpg";}
+  else if(randomproblem==285){fuente.textContent="2022.9.13 IWYMIC Mexico TST"; dondever.src="problemas/P285.jpg";}
+  else if(randomproblem==286){fuente.textContent="2022.9.14 IWYMIC Mexico TST"; dondever.src="problemas/P286.jpg";}
+  else if(randomproblem==287){fuente.textContent="2022.9.15 IWYMIC Mexico TST"; dondever.src="problemas/P287.jpg";}
   
   
   console.log(randomproblem);
