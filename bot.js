@@ -303,7 +303,7 @@ function aleatorio(){
   else if(randomproblem==298){fuente.textContent="P1.12.4 MONT"; dondever.src="problemas/P298.jpg";}
   else if(randomproblem==299){fuente.textContent="P1.12.5 MONT"; dondever.src="problemas/P299.jpg";}
   else if(randomproblem==300){fuente.textContent="P1.12.6 MONT (Romania)"; dondever.src="problemas/P300.jpg";}
-  else if(randomproblem==301){fuente.textContent="P1.12.7 MONT (St. Petersburg 1996)"; dondever.src="problemas/P301.jpg";
+  else if(randomproblem==301){fuente.textContent="P1.12.7 MONT (St. Petersburg 1996)"; dondever.src="problemas/P301.jpg";}
   else if(randomproblem==302){fuente.textContent="2001.G11.6 Rusia"; dondever.src="problemas/P302.jpg";}
   else if(randomproblem==303){fuente.textContent="P1.12.9 MONT (Alemania)"; dondever.src="problemas/P303.jpg";}
   else if(randomproblem==304){fuente.textContent="2020.3 Japon Junior Finals"; dondever.src="problemas/P304.jpg";}
