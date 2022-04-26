@@ -314,7 +314,7 @@ function aleatorio(){
   else if(randomproblem==309){fuente.textContent="2019.3 INMO"; dondever.src="problemas/P309.jpg";}
   else if(randomproblem==310){fuente.textContent="2007.1 USAMO"; dondever.src="problemas/P310.jpg";}
   else if(randomproblem==311){fuente.textContent="2007.5 USAMO"; dondever.src="problemas/P311.jpg";}
-  else if(randomproblem==312){fuente.textContent="2017.1 ELMO"; dondever.src="problemas/P312.jpg";}}
+  else if(randomproblem==312){fuente.textContent="2017.1 ELMO"; dondever.src="problemas/P312.jpg";}
   else if(randomproblem==313){fuente.textContent="2001.6 IMO"; dondever.src="problemas/P313.jpg";}
   
   
