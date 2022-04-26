@@ -316,7 +316,13 @@ function aleatorio(){
   else if(randomproblem==311){fuente.textContent="2007.5 USAMO"; dondever.src="problemas/P311.jpg";}
   else if(randomproblem==312){fuente.textContent="2017.1 ELMO"; dondever.src="problemas/P312.jpg";}
   else if(randomproblem==313){fuente.textContent="2001.6 IMO"; dondever.src="problemas/P313.jpg";}
-  
+  else if(randomproblem==314){fuente.textContent="2012.1 Czech-Polish-Slovak"; dondever.src="problemas/P314.jpg";}
+  else if(randomproblem==315){fuente.textContent="2022.1 Grecia"; dondever.src="problemas/P315.jpg";}
+  else if(randomproblem==316){fuente.textContent="2022.1 CJMO"; dondever.src="problemas/P316.jpg";}
+  else if(randomproblem==317){fuente.textContent="2012.4 Albania "; dondever.src="problemas/P317.jpg";}
+  else if(randomproblem==318){fuente.textContent="2022.G9.5 All Russian "; dondever.src="problemas/P318.jpg";}
+  else if(randomproblem==319){fuente.textContent="2019.TST4.6 Baja california"; dondever.src="problemas/P319.jpg";}
+  else if(randomproblem==320){fuente.textContent="2007.G2 JBMO SL"; dondever.src="problemas/P320.jpg";}
   
   
   
