@@ -303,19 +303,20 @@ function aleatorio(){
   else if(randomproblem==298){fuente.textContent="P1.12.4 MONT"; dondever.src="problemas/P298.jpg";}
   else if(randomproblem==299){fuente.textContent="P1.12.5 MONT"; dondever.src="problemas/P299.jpg";}
   else if(randomproblem==300){fuente.textContent="P1.12.6 MONT (Romania)"; dondever.src="problemas/P300.jpg";}
-  else if(randomproblem==301){fuente.textContent="2001.G11.6 Rusia"; dondever.src="problemas/P301.jpg";}
-  else if(randomproblem==302){fuente.textContent="P1.12.8 MONT (Alemania)"; dondever.src="problemas/P302.jpg";}
-  else if(randomproblem==303){fuente.textContent="P1.12.9 MONT (Alemania)"; dondever.src="problemas/P303.jpg";}
-  else if(randomproblem==304){fuente.textContent="2020.3 Japon Junior Finals"; dondever.src="problemas/P304.jpg";}
-  else if(randomproblem==305){fuente.textContent="2017.R2.1 Iran"; dondever.src="problemas/P305.jpg";}
-  else if(randomproblem==306){fuente.textContent="2017.G10.5 Rusia"; dondever.src="problemas/P306.jpg";}
-  else if(randomproblem==307){fuente.textContent="2002.1 IMO"; dondever.src="problemas/P307.jpg";}
-  else if(randomproblem==308){fuente.textContent="2001.G10.8 Rusia"; dondever.src="problemas/P308.jpg";}
-  else if(randomproblem==309){fuente.textContent="2019.3 INMO"; dondever.src="problemas/P309.jpg";}
-  else if(randomproblem==310){fuente.textContent="2007.1 USAMO"; dondever.src="problemas/P310.jpg";}
-  else if(randomproblem==311){fuente.textContent="2007.5 USAMO"; dondever.src="problemas/P311.jpg";}
-  else if(randomproblem==312){fuente.textContent="2017.1 ELMO"; dondever.src="problemas/P312.jpg";}}
-  else if(randomproblem==313){fuente.textContent="2001.6 IMO"; dondever.src="problemas/P313.jpg";}
+  else if(randomproblem==301){fuente.textContent="P1.12.7 MONT (St. Petersburg 1996)"; dondever.src="problemas/P301.jpg";
+  else if(randomproblem==302){fuente.textContent="2001.G11.6 Rusia"; dondever.src="problemas/P302.jpg";}
+  else if(randomproblem==303){fuente.textContent="P1.12.8 MONT (Alemania)"; dondever.src="problemas/P303.jpg";}
+  else if(randomproblem==304){fuente.textContent="P1.12.9 MONT (Alemania)"; dondever.src="problemas/P304.jpg";}
+  else if(randomproblem==305){fuente.textContent="2020.3 Japon Junior Finals"; dondever.src="problemas/P305.jpg";}
+  else if(randomproblem==306){fuente.textContent="2017.R2.1 Iran"; dondever.src="problemas/P306.jpg";}
+  else if(randomproblem==307){fuente.textContent="2017.G10.5 Rusia"; dondever.src="problemas/P307.jpg";}
+  else if(randomproblem==308){fuente.textContent="2002.1 IMO"; dondever.src="problemas/P308.jpg";}
+  else if(randomproblem==309){fuente.textContent="2001.G10.8 Rusia"; dondever.src="problemas/P309.jpg";}
+  else if(randomproblem==310){fuente.textContent="2019.3 INMO"; dondever.src="problemas/P310.jpg";}
+  else if(randomproblem==311){fuente.textContent="2007.1 USAMO"; dondever.src="problemas/P311.jpg";}
+  else if(randomproblem==312){fuente.textContent="2007.5 USAMO"; dondever.src="problemas/P312.jpg";}
+  else if(randomproblem==313){fuente.textContent="2017.1 ELMO"; dondever.src="problemas/P313.jpg";}}
+  else if(randomproblem==314){fuente.textContent="2001.6 IMO"; dondever.src="problemas/P314.jpg";}
   
   
   
