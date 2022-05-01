@@ -2,7 +2,7 @@ var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
 function aleatorio(){
-  var randomproblem=Math.floor(Math.random()*329)+1;
+  var randomproblem=Math.floor(Math.random()*335)+1;
   if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P1.jpg";}
   else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P2.jpg";}
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P3.jpg";}
@@ -318,7 +318,7 @@ function aleatorio(){
   else if(randomproblem==313){fuente.textContent="2001.6 IMO"; dondever.src="problemas/P313.jpg";}
   else if(randomproblem==314){fuente.textContent="2012.1 Czech-Polish-Slovak"; dondever.src="problemas/P314.jpg";}
   else if(randomproblem==315){fuente.textContent="2022.1 Grecia"; dondever.src="problemas/P315.jpg";}
-  else if(randomproblem==316){fuente.textContent="2022.1 CJMO"; dondever.src="problemas/P316.jpg";}
+  else if(randomproblem==316){fuente.textContent="2022.1 Canada JMO"; dondever.src="problemas/P316.jpg";}
   else if(randomproblem==317){fuente.textContent="2012.4 Albania "; dondever.src="problemas/P317.jpg";}
   else if(randomproblem==318){fuente.textContent="2022.G9.5 All Russian "; dondever.src="problemas/P318.jpg";}
   else if(randomproblem==319){fuente.textContent="2019.TST4.6 Baja california"; dondever.src="problemas/P319.jpg";}
@@ -332,6 +332,15 @@ function aleatorio(){
   else if(randomproblem==327){fuente.textContent="2021.4 OMCC"; dondever.src="problemas/P327.jpg";}
   else if(randomproblem==328){fuente.textContent="2021.5 OMCC"; dondever.src="problemas/P328.jpg";}
   else if(randomproblem==329){fuente.textContent="2021.6 OMCC"; dondever.src="problemas/P329.jpg";}
+  else if(randomproblem==330){fuente.textContent="2017.7 Korea JMO"; dondever.src="problemas/P330.jpg";}
+  else if(randomproblem==331){fuente.textContent="2021.3 PAGMO"; dondever.src="problemas/P331.jpg";}
+  else if(randomproblem==332){fuente.textContent="2019.17 ONMAPS"; dondever.src="problemas/P332.jpg";}
+  else if(randomproblem==333){fuente.textContent="2019.5 JBMO Macedonia TST"; dondever.src="problemas/P333.jpg";}
+  else if(randomproblem==334){fuente.textContent="2019.1 Singapur"; dondever.src="problemas/P334.jpg";}
+  else if(randomproblem==335){fuente.textContent="2021.3 IWYMIC"; dondever.src="problemas/P335.jpg";}
+  
+  
+  
   
   console.log(randomproblem);
 }
