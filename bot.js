@@ -2,7 +2,7 @@ var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
 function aleatorio(){
-  var randomproblem=Math.floor(Math.random()*335)+1;
+  var randomproblem=Math.floor(Math.random()*365)+1;
   if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P1.jpg";}
   else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P2.jpg";}
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P3.jpg";}
@@ -338,10 +338,36 @@ function aleatorio(){
   else if(randomproblem==333){fuente.textContent="2019.5 JBMO Macedonia TST"; dondever.src="problemas/P333.jpg";}
   else if(randomproblem==334){fuente.textContent="2019.1 Singapur"; dondever.src="problemas/P334.jpg";}
   else if(randomproblem==335){fuente.textContent="2021.3 IWYMIC"; dondever.src="problemas/P335.jpg";}
-  
-  
-  
-  
+  else if(randomproblem==336){fuente.textContent="1970.2 IMO"; dondever.src="problemas/P336.jpg";}
+  else if(randomproblem==337){fuente.textContent="2004.2 Mexico"; dondever.src="problemas/P337.jpg";}
+  else if(randomproblem==338){fuente.textContent="Ej1.18 Algebra OMM "; dondever.src="problemas/P338.jpg";}
+  else if(randomproblem==339){fuente.textContent="Ej1.19 Algebra OMM "; dondever.src="problemas/P339.jpg";}
+  else if(randomproblem==340){fuente.textContent="Ej1.20 Algebra OMM "; dondever.src="problemas/P340.jpg";}
+  else if(randomproblem==341){fuente.textContent="1987.5 Canada "; dondever.src="problemas/P341.jpg";}
+  else if(randomproblem==342){fuente.textContent="Ej1.27 Algebra OMM "; dondever.src="problemas/P347.jpg";}
+  else if(randomproblem==343){fuente.textContent="Ej1.28 Algebra OMM "; dondever.src="problemas/P348jpg";}
+  else if(randomproblem==344){fuente.textContent="Ej1.29 Algebra OMM "; dondever.src="problemas/P349.jpg";}
+  else if(randomproblem==345){fuente.textContent="Ej1.30 Algebra OMM "; dondever.src="problemas/P350.jpg";}
+  else if(randomproblem==346){fuente.textContent="Ej1.31 Algebra OMM "; dondever.src="problemas/P351.jpg";}
+  else if(randomproblem==347){fuente.textContent="Ej1.32 Algebra OMM "; dondever.src="problemas/P352.jpg";}
+  else if(randomproblem==348){fuente.textContent="Ej1.33 Algebra OMM "; dondever.src="problemas/P353.jpg";}
+  else if(randomproblem==349){fuente.textContent="Ej1.34 Algebra OMM "; dondever.src="problemas/P354.jpg";}
+  else if(randomproblem==350){fuente.textContent="Ej1.35 Algebra OMM "; dondever.src="problemas/P355.jpg";}
+  else if(randomproblem==351){fuente.textContent="Ej1.36 Algebra OMM "; dondever.src="problemas/P356.jpg";}
+  else if(randomproblem==352){fuente.textContent="Desigualdad de Nesbitt "; dondever.src="problemas/P357.jpg";}
+  else if(randomproblem==353){fuente.textContent="Ej1.38 Algebra OMM "; dondever.src="problemas/P358.jpg";}
+  else if(randomproblem==354){fuente.textContent="Ej1.39 Algebra OMM "; dondever.src="problemas/P359.jpg";}
+  else if(randomproblem==355){fuente.textContent="Ej1.40 Algebra OMM "; dondever.src="problemas/P360.jpg";}
+  else if(randomproblem==356){fuente.textContent="Ej1.41 Algebra OMM "; dondever.src="problemas/P361.jpg";}
+  else if(randomproblem==357){fuente.textContent="Ej1.42 Algebra OMM "; dondever.src="problemas/P362.jpg";}
+  else if(randomproblem==358){fuente.textContent="Ej1.43 Algebra OMM "; dondever.src="problemas/P363.jpg";}
+  else if(randomproblem==359){fuente.textContent="2011.1 APMO "; dondever.src="problemas/P364.jpg";}
+  else if(randomproblem==360){fuente.textContent="Ej1.45 Algebra OMM "; dondever.src="problemas/P365.jpg";}
+  else if(randomproblem==361){fuente.textContent="Ej1.46 Algebra OMM "; dondever.src="problemas/P366.jpg";}
+  else if(randomproblem==362){fuente.textContent="Ej1.47 Algebra OMM "; dondever.src="problemas/P367.jpg";}
+  else if(randomproblem==363){fuente.textContent="Ej1.48 Algebra OMM "; dondever.src="problemas/P368.jpg";}
+  else if(randomproblem==364){fuente.textContent="Ej1.49 Algebra OMM "; dondever.src="problemas/P369.jpg";}
+  else if(randomproblem==365){fuente.textContent="Ej1.50 Algebra OMM "; dondever.src="problemas/P370.jpg";}
   console.log(randomproblem);
 }
 
