@@ -2,7 +2,7 @@ var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
 function aleatorio(){
-  var randomproblem=Math.floor(Math.random()*365)+1;
+  var randomproblem=Math.floor(Math.random()*380)+1;
   if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P1.jpg";}
   else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P2.jpg";}
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P3.jpg";}
@@ -368,6 +368,21 @@ function aleatorio(){
   else if(randomproblem==363){fuente.textContent="Ej1.48 Algebra OMM "; dondever.src="problemas/P363.jpg";}
   else if(randomproblem==364){fuente.textContent="Ej1.49 Algebra OMM "; dondever.src="problemas/P364.jpg";}
   else if(randomproblem==365){fuente.textContent="Ej1.50 Algebra OMM "; dondever.src="problemas/P365.jpg";}
+  else if(randomproblem==366){fuente.textContent="IWYMIC 2021/1 "; dondever.src="problemas/P366.jpg";}
+  else if(randomproblem==367){fuente.textContent="IWYMIC 2021/2 "; dondever.src="problemas/P367.jpg";}
+  else if(randomproblem==368){fuente.textContent="IWYMIC 2021/3 "; dondever.src="problemas/P368.jpg";}
+  else if(randomproblem==369){fuente.textContent="IWYMIC 2021/4 "; dondever.src="problemas/P369.jpg";}
+  else if(randomproblem==370){fuente.textContent="IWYMIC 2021/5 "; dondever.src="problemas/P370.jpg";}
+  else if(randomproblem==371){fuente.textContent="IWYMIC 2021/6 "; dondever.src="problemas/P371.jpg";}
+  else if(randomproblem==372){fuente.textContent="IWYMIC 2021/7 "; dondever.src="problemas/P372.jpg";}
+  else if(randomproblem==373){fuente.textContent="IWYMIC 2021/8 "; dondever.src="problemas/P373.jpg";}
+  else if(randomproblem==374){fuente.textContent="IWYMIC 2021/9 "; dondever.src="problemas/P374.jpg";}
+  else if(randomproblem==375){fuente.textContent="IWYMIC 2021/10 "; dondever.src="problemas/P375.jpg";}
+  else if(randomproblem==376){fuente.textContent="IWYMIC 2021/11 "; dondever.src="problemas/P376.jpg";}
+  else if(randomproblem==377){fuente.textContent="IWYMIC 2021/12 "; dondever.src="problemas/P377.jpg";}
+  else if(randomproblem==378){fuente.textContent="IWYMIC 2021/13 "; dondever.src="problemas/P378.jpg";}
+  else if(randomproblem==379){fuente.textContent="IWYMIC 2021/14 "; dondever.src="problemas/P379.jpg";}
+  else if(randomproblem==380){fuente.textContent="IWYMIC 2021/15 "; dondever.src="problemas/P380.jpg";}
   console.log(randomproblem);
 }
 
