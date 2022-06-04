@@ -2,7 +2,7 @@ var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
 function aleatorio(){
-  var randomproblem=Math.floor(Math.random()*380)+1;
+  var randomproblem=Math.floor(Math.random()*385)+1;
   if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P1.jpg";}
   else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P2.jpg";}
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P3.jpg";}
@@ -383,6 +383,11 @@ function aleatorio(){
   else if(randomproblem==378){fuente.textContent="IWYMIC 2021/13 "; dondever.src="problemas/P378.jpg";}
   else if(randomproblem==379){fuente.textContent="IWYMIC 2021/14 "; dondever.src="problemas/P379.jpg";}
   else if(randomproblem==380){fuente.textContent="IWYMIC 2021/15 "; dondever.src="problemas/P380.jpg";}
+  else if(randomproblem==381){fuente.textContent="Olimpiada de Mayo 2021/1 "; dondever.src="problemas/P381.jpg";}
+  else if(randomproblem==382){fuente.textContent="Olimpiada de Mayo 2021/2 "; dondever.src="problemas/P382.jpg";}
+  else if(randomproblem==383){fuente.textContent="Olimpiada de Mayo 2021/3 "; dondever.src="problemas/P383.jpg";}
+  else if(randomproblem==384){fuente.textContent="Olimpiada de Mayo 2021/4 "; dondever.src="problemas/P384.jpg";}
+  else if(randomproblem==385){fuente.textContent="Olimpiada de Mayo 2021/5 "; dondever.src="problemas/P385.jpg";}
   console.log(randomproblem);
 }
 
