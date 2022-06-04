@@ -2,7 +2,7 @@ var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
 function aleatorio(){
-  var randomproblem=Math.floor(Math.random()*392)+1;
+  var randomproblem=Math.floor(Math.random()*430)+1;
   if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P1.jpg";}
   else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P2.jpg";}
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P3.jpg";}
@@ -395,6 +395,44 @@ function aleatorio(){
   else if(randomproblem==390){fuente.textContent="OMCC 2003/1 "; dondever.src="problemas/P390.jpg";}
   else if(randomproblem==391){fuente.textContent="España 2021/1 "; dondever.src="problemas/P391.jpg";}
   else if(randomproblem==392){fuente.textContent="OMCC 2019/1 "; dondever.src="problemas/P392.jpg";}
+  else if(randomproblem==393){fuente.textContent="Combinatoria para Olimpiadas OMM Ej1.1.13 "; dondever.src="problemas/P393.jpg";}
+  else if(randomproblem==394){fuente.textContent="Combinatoria para Olimpiadas OMM Ej1.1.14 "; dondever.src="problemas/P394.jpg";}
+  else if(randomproblem==395){fuente.textContent="Combinatoria para Olimpiadas OMM Ej1.1.15 "; dondever.src="problemas/P395.jpg";}
+  else if(randomproblem==396){fuente.textContent="Combinatoria para Olimpiadas OMM Ej1.1.16 "; dondever.src="problemas/P396.jpg";}
+  else if(randomproblem==397){fuente.textContent="Combinatoria para Olimpiadas OMM Ej1.1.17 "; dondever.src="problemas/P397.jpg";}
+  else if(randomproblem==398){fuente.textContent="Combinatoria para Olimpiadas OMM Ej1.1.18 "; dondever.src="problemas/P398.jpg";}
+  else if(randomproblem==399){fuente.textContent="Combinatoria para Olimpiadas OMM Ej1.1.19 "; dondever.src="problemas/P399.jpg";}
+  else if(randomproblem==400){fuente.textContent="Combinatoria para Olimpiadas OMM Ej1.2.6 "; dondever.src="problemas/P400.jpg";}
+  else if(randomproblem==401){fuente.textContent="Combinatoria para Olimpiadas OMM Ej1.2.7 "; dondever.src="problemas/P401.jpg";}
+  else if(randomproblem==402){fuente.textContent="Combinatoria para Olimpiadas OMM Ej1.2.8 "; dondever.src="problemas/P402.jpg";}
+  else if(randomproblem==403){fuente.textContent="Combinatoria para Olimpiadas OMM Ej1.2.9 "; dondever.src="problemas/P403.jpg";}
+  else if(randomproblem==404){fuente.textContent="Combinatoria para Olimpiadas OMM Ej1.2.10 "; dondever.src="problemas/P404.jpg";}
+  else if(randomproblem==405){fuente.textContent="Combinatoria para Olimpiadas OMM Ej1.2.11 "; dondever.src="problemas/P405.jpg";}
+  else if(randomproblem==406){fuente.textContent="Combinatoria para Olimpiadas OMM Ej1.2.12 "; dondever.src="problemas/P406.jpg";}
+  else if(randomproblem==407){fuente.textContent="Combinatoria para Olimpiadas OMM Ej1.2.13 "; dondever.src="problemas/P407.jpg";}
+  else if(randomproblem==408){fuente.textContent="Combinatoria para Olimpiadas OMM Ej1.2.14 "; dondever.src="problemas/P408.jpg";}
+  else if(randomproblem==409){fuente.textContent="Combinatoria para Olimpiadas OMM Ej1.2.15 "; dondever.src="problemas/P409.jpg";}
+  else if(randomproblem==410){fuente.textContent="IMO 2002/1 "; dondever.src="problemas/P410.jpg";}
+  else if(randomproblem==411){fuente.textContent="IMO 2009/6 "; dondever.src="problemas/P411.jpg";}
+  else if(randomproblem==412){fuente.textContent="Combinatoria para Olimpiadas OMM Prop1.3.1 "; dondever.src="problemas/P412.jpg";}
+  else if(randomproblem==413){fuente.textContent="Combinatoria para Olimpiadas OMM Ej1.3.2 "; dondever.src="problemas/P413.jpg";}
+  else if(randomproblem==414){fuente.textContent="Combinatoria para Olimpiadas OMM Ej1.3.3 "; dondever.src="problemas/P414.jpg";}
+  else if(randomproblem==415){fuente.textContent="Ibero 2005/6 "; dondever.src="problemas/P415.jpg";}
+  else if(randomproblem==416){fuente.textContent="Combinatoria para Olimpiadas OMM Ej1.4.1 "; dondever.src="problemas/P416.jpg";}
+  else if(randomproblem==417){fuente.textContent="Combinatoria para Olimpiadas OMM Ej1.4.2 "; dondever.src="problemas/P417.jpg";}
+  else if(randomproblem==418){fuente.textContent="Combinatoria para Olimpiadas OMM Ej1.4.3 "; dondever.src="problemas/P418.jpg";}
+  else if(randomproblem==419){fuente.textContent="Combinatoria para Olimpiadas OMM Ej1.4.5 "; dondever.src="problemas/P419.jpg";}
+  else if(randomproblem==420){fuente.textContent="Combinatoria para Olimpiadas OMM P1.1 "; dondever.src="problemas/P420.jpg";}
+  else if(randomproblem==421){fuente.textContent="Combinatoria para Olimpiadas OMM P1.2 (Islandia 2009) "; dondever.src="problemas/P421.jpg";}
+  else if(randomproblem==422){fuente.textContent="Combinatoria para Olimpiadas OMM P1.3 "; dondever.src="problemas/P422.jpg";}
+  else if(randomproblem==423){fuente.textContent="Combinatoria para Olimpiadas OMM P1.4 "; dondever.src="problemas/P423.jpg";}
+  else if(randomproblem==424){fuente.textContent="OMCC 2003/5 "; dondever.src="problemas/P424.jpg";}
+  else if(randomproblem==425){fuente.textContent="IMO 2000/4 "; dondever.src="problemas/P425.jpg";}
+  else if(randomproblem==426){fuente.textContent="Combinatoria para Olimpiadas OMM P1.7 "; dondever.src="problemas/P426.jpg";}
+  else if(randomproblem==427){fuente.textContent="IMO 2003/1 "; dondever.src="problemas/P427.jpg";}
+  else if(randomproblem==428){fuente.textContent="Combinatoria para Olimpiadas OMM P1.9 "; dondever.src="problemas/P428.jpg";}
+  else if(randomproblem==429){fuente.textContent="Japon 2009/2 "; dondever.src="problemas/P429.jpg";}
+  else if(randomproblem==430){fuente.textContent="IMO 2006/2 "; dondever.src="problemas/P430.jpg";}
   console.log(randomproblem);
 }
 
