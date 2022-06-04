@@ -2,7 +2,7 @@ var link =document.getElementById("dondever");
 var fuente=document.getElementById("fuente");
 
 function aleatorio(){
-  var randomproblem=Math.floor(Math.random()*385)+1;
+  var randomproblem=Math.floor(Math.random()*392)+1;
   if(randomproblem==1){fuente.textContent="2022.G9.1 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P1.jpg";}
   else if(randomproblem==2){fuente.textContent="2022.G9.2 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P2.jpg";}
   else if(randomproblem==3){fuente.textContent="2022.G9.3 Acumulativo ONMAPS Jalisco"; dondever.src="problemas/P3.jpg";}
@@ -388,6 +388,13 @@ function aleatorio(){
   else if(randomproblem==383){fuente.textContent="Olimpiada de Mayo 2021/3 "; dondever.src="problemas/P383.jpg";}
   else if(randomproblem==384){fuente.textContent="Olimpiada de Mayo 2021/4 "; dondever.src="problemas/P384.jpg";}
   else if(randomproblem==385){fuente.textContent="Olimpiada de Mayo 2021/5 "; dondever.src="problemas/P385.jpg";}
+  else if(randomproblem==386){fuente.textContent="ONMAPS 2019/2 "; dondever.src="problemas/P386.jpg";}
+  else if(randomproblem==387){fuente.textContent="BC TST 2012/3 "; dondever.src="problemas/P387.jpg";}
+  else if(randomproblem==388){fuente.textContent="OMA 2021/1 "; dondever.src="problemas/P388.jpg";}
+  else if(randomproblem==389){fuente.textContent="BC TST 2015/5 "; dondever.src="problemas/P389.jpg";}
+  else if(randomproblem==390){fuente.textContent="OMCC 2003/1 "; dondever.src="problemas/P390.jpg";}
+  else if(randomproblem==391){fuente.textContent="España 2021/1 "; dondever.src="problemas/P391.jpg";}
+  else if(randomproblem==392){fuente.textContent="OMCC 2019/1 "; dondever.src="problemas/P392.jpg";}
   console.log(randomproblem);
 }
 
