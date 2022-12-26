@@ -116,5 +116,5 @@ probando el teorema.
 ### Algoritmo de Euclides
 
 Sea $a,b \in \mathbb{N}$ entonces podemos escribir
-$$a=bq+r \text{  con } 0<r<b$$
+$$a=bq+r \text{  con } 0\<r\<b$$
 $$b=rq_1+r_1$$
