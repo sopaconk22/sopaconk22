@@ -41,7 +41,7 @@ Notemos que $0^p\equiv 0$ mod $p$. y $1^p\equiv 1$ mod $p$. Son nuestros casos b
 $$a^p\equiv a \text{ mod } p$$
 entonces tenemos que por el binomio de newton
 $$(a+1)^p=a^p+pa^{p-1}+\binom{p}{2}a^{p-2}+\ldots+\binom{p}{p-1}a+1$$
-Pero $\binom{p}{k}=\frac{p!}{k!(p-k)!}$ asi que para $1\leq k \leq p-1$ se tiene que $p | \binom{p}{k}$, porque como $k<p$ entonces no hay ningun factor $p$ en $k!$ y como $p-k\leq p-1<p$ entonces tampoco tiene un factor $p$ y no hay ningun factor $p$ en el denominador pero si en el numerador porque es $p!$.
+Pero $\binom{p}{k}=\frac{p!}{k!(p-k)!}$ asi que para $1\leq k \leq p-1$ se tiene que $p | \binom{p}{k}$, porque como k<p, entonces no hay ningun factor $p$ en $k!$ y como $p-k\leq p-1<p$ entonces tampoco tiene un factor $p$ y no hay ningun factor $p$ en el denominador pero si en el numerador porque es $p!$.
 
 Entonces $\binom{p}{k}a^{p-k}\equiv 0$ mod $p$ para $k\geq 1$ (porque es multiplo de $p$) entonces queda que 
 $$(a+1)^p\equiv a^p+1 \equiv a+1 \text{ mod } p$$
