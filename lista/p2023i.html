@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>MathJax example</title>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async
+          src="https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js">
+  </script>
+  <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    
+    <center>
+        <div class="title">
+            <p class="p1">
+            Mi camino en la olimpiada
+            </p>
+            <p class="p2">
+                Emmanuel Buenrostro
+                
+            </p>
+        </div>
+    </center>
+       <table>
+        <td class="td1">
+            <div class="item2">
+                
+                <center>
+                <b class="name">Codeforces 1767D. Playoff</b> <br>
+                <i>time limit per test: 2 seconds <br>
+                    memory limit per test:256 megabytes <br></i>
+            </center>
+                \(2n\) teams participate in a playoff tournament. The tournament consists of \(2n-1\) games. They are held as follows: in the first phase of the tournament, the teams are split into pairs: team 1 plays against team 2, team 3 plays against team 4, and so on (so, \(2n-1\) games are played in that phase). When a team loses a game, it is eliminated, and each game results in elimination of one team (there are no ties). After that, only \(2n-1\) teams remain. If only one team remains, it is declared the champion; otherwise, the second phase begins, where \(2n-2\) games are played: in the first one of them, the winner of the game "1 vs 2" plays against the winner of the game "3 vs 4", then the winner of the game "5 vs 6" plays against the winner of the game "7 vs 8", and so on. This process repeats until only one team remains. <br>
+                <br>
+    The skill level of the \(i\)-th team is \(p_i\), where \(p\) is a permutation of integers \(1, 2, \ldots , 2n \) (a permutation is an array where each element from 1 to  \(2n\) occurs exactly once). <br>
+    
+    You are given a string \(s\) which consists of \(n\) characters. These characters denote the results of games in each phase of the tournament as follows: <br>
+    <ul>
+    
+    <li>if \(s_i\) is equal to 0, then during the \(i\)-th phase (the phase with \(2n-i\) games), in each match, the team with the lower skill level wins; </li>
+    <li>if \(s_i\) is equal to 1, then during the \(i\)-th phase (the phase with \(2n-i\) games), in each match, the team with the higher skill level wins. </li>
+    
+    </ul>
+    Let's say that an integer \(x \) is winning if it is possible to find a permutation \(p\) such that the team with skill \(x\) wins the tournament. Find all winning integers. <br>
+    <br>
+     <i> <b> Input  </b></i><br>
+    The first line contains one integer \(n (1≤n≤18)\). <br>
+    
+    The second line contains the string \(s\) of length \(n\) consisting of the characters 0 and/or 1. <br>
+    
+    <i> <b> Output  </b></i><br>
+    Print all the winning integers \(x\) in ascending order. <br>
+    
+    Examples: <br>
+    
+    <div class="examplein">
+    <b>Input: </b> <br>
+    3 <br>
+    101 <br>
+    <b>Output:</b> <br>
+    4 5 6 7 <br>
+    </div>
+    
+    <div class="examplein">
+        <b>Input: </b> <br>
+        1 <br>
+        1 <br>
+        <b>Output:</b> <br>
+        2 <br>
+    </div>
+    
+    <div class="examplein">
+        <b>Input: </b> <br>
+        2 <br>
+        01 <br>
+        <b>Output:</b> <br>
+        2 3 <br>
+        </div>
+    
+        <a href="p2023imd/CF 1767D.md">Solución.</a>
+        
+            
+            </div>
+          
+        </td>    
+        <td class="td2">
+            <div class="item">
+            <ul>
+                <li>
+                <b>Fijado</b>
+                <ul>
+                    <li> <a href="p2023m.html"> Lista de Problemas 2023 Mate </a></li>
+                    <li> <a href="p2023i.html"> Lista de Problemas 2023 Info </a></li>
+                </ul>
+                </li>
+            </ul>
+            </div>
+            </td>
+        </div>
+    </table>
+</body>
+</html>

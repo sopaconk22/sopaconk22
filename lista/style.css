@@ -1,0 +1,75 @@
+
+        body{
+            font-size: 18px;
+        }
+        .title{
+            background-color: rgb(243, 238, 243);
+            border-style: solid;
+            border-width: 2px;
+            
+            border-color: rgb(0, 0, 0);
+        }
+        
+        .item{
+            
+            background-color: rgb(243, 238, 243);
+            padding: 1px;
+            border-style: solid;
+            border-width: 2px;
+            border-color: rgb(39, 160, 39);
+         
+            margin: 20px;
+        }
+        .item2{
+            
+            background-color: rgb(243, 238, 243);
+            padding: 1px;
+            border-style: solid;
+            border-width: 2px;
+            border-color: rgb(39, 160, 39);
+          
+            margin: 20px;
+        }
+        .td1{
+
+            
+            width: 70%;
+        }
+        .td2{
+            width: 30%;
+        }
+        table{
+            width: 100%;
+        }
+        .p1{
+            font-size: 50px;
+        }
+        .p2{
+            font-size: 25px;
+            position: relative;
+            left: 200px;
+        }
+        a{
+            color: rgb(37, 180, 133);
+        }
+        .examplein{
+            
+            border-style: solid;
+            border-width: 2px;
+            border-color: black;
+            padding: 10px;
+            margin: 3%;
+            background-color: rgb(231, 211, 231);
+        }
+        .solutioncpp{
+            border-style: solid;
+            border-width: 2px;
+            border-color: black;
+            padding: 10px;
+            margin: 3%;
+            background-color: rgb(204, 250, 174);
+            font-size: 15px;
+        }
+        .name{
+            font-size: 23px;
+        }
